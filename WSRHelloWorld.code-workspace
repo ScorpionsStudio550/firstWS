@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../../../../SDK/Wildfly/standalone/deployments"
+        }
+    ],
+    "settings": {
+        "java.configuration.updateBuildConfiguration": "disabled"
+    }
+}

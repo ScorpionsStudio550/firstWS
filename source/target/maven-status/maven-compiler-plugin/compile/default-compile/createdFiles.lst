@@ -1,0 +1,4 @@
+br\com\scorpionsstudios\ping\resource\resourceHealth.class
+br\com\scorpionsstudios\ping\configRest.class
+br\com\scorpionsstudios\ping\control\controlServerWatch.class
+br\com\scorpionsstudios\ping\resource\resourcePings.class
